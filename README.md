@@ -37,31 +37,6 @@ Mục tiêu của tôi là phát triển các hệ thống dữ liệu **ổn đ
 - Event-driven ETL (Lambda, SQS, Kafka Streams cơ bản)  
 - CDC pipelines (Debezium concept, binlog, S3 sink)  
 
----
-
-### 🔹 **Microsoft Azure**
-- **Azure Data Lake Storage (ADLS Gen2)**  
-  - Thiết kế Data Lake: *Bronze – Silver – Gold*  
-  - Hierarchical namespace, phân vùng dữ liệu  
-- **Azure Synapse Analytics**  
-  - SQL Pool, Spark Pool, Pipelines  
-  - Phân tích dữ liệu lớn, kết hợp batch + streaming  
-- **Azure Data Factory (ADF)**  
-  - Pipelines ETL/ELT  
-  - Mapping Data Flows, Integration Runtimes  
-  - Kết nối On-prem & Cloud  
-- **Azure Event Hub**  
-  - Streaming ingestion (Kafka-compatible)  
-  - Consumer groups, partitioning  
-- **Azure Databricks**  
-  - Spark cluster, Auto-Optimize, Delta Engine  
-  - Notebooks, ML runtime  
-  - Delta Live Tables (DLT)  
-- **Azure SQL / Cosmos DB**  
-  - OLTP/NoSQL workloads  
-  - Partitioning, global distribution  
-- **Azure Monitor / Log Analytics**  
-  - Logging, metrics, alerting  
 
 ---
 
