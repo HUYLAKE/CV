@@ -9,15 +9,15 @@
 ---
 
 ## 📌 Giới thiệu
-Xin chào! Tôi là **Data Engineer** với kiến thức về hệ thống dữ liệu, xử lý dữ liệu lớn, xây dựng pipeline phân tán và tối ưu hóa hiệu suất.  
-Mục tiêu của tôi là phát triển các hệ thống dữ liệu **ổn định – tối ưu – mở rộng dễ dàng**, phục vụ phân tích và machine learning.
+Xin chào! Mình là **Data Engineer** với kiến thức về hệ thống dữ liệu, xử lý dữ liệu lớn, xây dựng pipeline tối ưu hóa hiệu suất.  
+Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn định – tối ưu – mở rộng dễ dàng**, phục vụ phân tích và machine learning.
 
 ---
 
 ## 🛠️ Kỹ năng chuyên môn (Tech Skills)
 
 ### 🔹 **Ngôn ngữ lập trình**
-- Python: PySpark, Pandas, NumPy, SQLAlchemy  
+- Python: PySpark, Pandas, NumPy, SQLAlchemy, Polars
 - SQL nâng cao: window functions, CTE, query optimization  
 - Bash scripting, YAML, JSON  
 
@@ -26,16 +26,14 @@ Mục tiêu của tôi là phát triển các hệ thống dữ liệu **ổn đ
 ### 🔹 **Big Data & Distributed Processing**
 - Apache Spark (Batch, Streaming, Structured Streaming)  
 - Apache Kafka (Producer/Consumer, Topic design, Partitioning)  
-- Delta Lake / Iceberg / Parquet  
 - Spark optimization: Catalyst, Tungsten, Partition pruning, Caching  
 
 ---
 
 ### 🔹 **Data Pipelines & Workflow**
-- Apache Airflow (DAGs, Scheduler, Sensors, XCom, Hooks)  
+- Data Orchestration (Dagster, Airflow) 
 - dbt (data modeling: staging, core, mart; testing; documentation)  
-- Event-driven ETL (Lambda, SQS, Kafka Streams cơ bản)  
-- CDC pipelines (Debezium concept, binlog, S3 sink)  
+- Event-driven ETL ( Kafka Streams cơ bản)  
 
 
 ---
@@ -67,10 +65,8 @@ Mục tiêu của tôi là phát triển các hệ thống dữ liệu **ổn đ
 ---
 
 ### 🔹 **Databases & Data Warehouse**
-- MySQL, PostgreSQL  
-- Snowflake (virtual warehouse, micro-partitioning, time-travel)  
-- BigQuery (columnar storage, cost-based model)  
-- Redshift (sort keys, dist keys – concept)  
+- MySQL, PostgreSQL, SQL Server 
+- Database Normalization, Denormalization
 - MongoDB / Redis cơ bản  
 
 ---
@@ -84,7 +80,7 @@ Mục tiêu của tôi là phát triển các hệ thống dữ liệu **ổn đ
 ---
 
 ### 🔹 **Testing & Quality**
-- Data validation (dbt tests, Great Expectations – concept)  
+- Data validation (dbt tests, Great Expectations – concept, patito, pydantic)  
 - Unit test Python (pytest)  
 - Data quality frameworks: constraints, schema tests  
 
@@ -99,7 +95,7 @@ Mục tiêu của tôi là phát triển các hệ thống dữ liệu **ổn đ
 ---
 
 ## 🎓 Học vấn
-- Cử nhân Công nghệ thông tin  
+- Cử nhân Tài Chính Ngân Hàng  
 - Tự học / khóa học về Data Engineering: Spark, Kafka, Airflow, Cloud  
 
 ---
