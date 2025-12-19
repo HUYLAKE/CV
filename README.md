@@ -9,31 +9,17 @@
 ---
 
 ## 📌 Giới thiệu
-Xin chào! Mình là **Data Engineer** với kiến thức về hệ thống dữ liệu, xử lý dữ liệu lớn, xây dựng pipeline tối ưu hóa hiệu suất.  
-Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn định – tối ưu – mở rộng dễ dàng**, phục vụ phân tích và machine learning.
+Xin chào! Mình là **Data Engineer** với kiến thức về hệ thống dữ liệu, xử lý dữ liệu lớn, xây dựng pipeline.  
+Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn định – tối ưu – mở rộng dễ dàng**, phục vụ phân tích và machine learning và trở thành một Lead Data Engineer chuyên về hệ thống streaming real-time. Làm việc với các mô hình Lakehouse nâng cao
 
 ---
-## 📂 Projects
-
-### 1️⃣ Data Pipeline with Polars
-- **Tech**: Python, Polars, Patito
-- **Mô tả**: Pipeline trích xuất dữ liệu từ file csv, lọc data lỗi và sạch thành 2 file riêng biệt 
-- 🔗 **Repo**: https://github.com/HUYLAKE/ETL_polars_project
-
----
-
-### 2️⃣ Data Pipeline With Dbt
-- **Tech**: Dbt core, MySQL
-- **Mô Tả**: Thực hiện quy trình ELT trong MySQL chuyển, dùng dbt biến đổi dữ liệu phù hợp cho phân tích 
-- 🔗 **Repo**: https://github.com/HUYLAKE/ELT_project
 
 ## 🛠️ Kỹ năng chuyên môn (Tech Skills)
 
 ### 🔹 **Ngôn ngữ lập trình**
 - Python: PySpark, Pandas, NumPy, SQLAlchemy, Polars
 - SQL nâng cao: window functions, CTE, query optimization  
-- Bash scripting, YAML, JSON  
-
+  
 ---
 
 ### 🔹 **Big Data & Distributed Processing**
@@ -45,20 +31,78 @@ Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn �
 
 ### 🔹 **Data Pipelines & Workflow**
 - Data Orchestration (Dagster, Airflow) 
-- dbt (data modeling: staging, core, mart; testing; documentation) Certificate  
+- dbt (data modeling: staging, core, mart; testing; documentation)  
+- Event-driven ETL ( Kafka Streams cơ bản)  
+
 
 ---
 
-## 🎯 Mục tiêu nghề nghiệp
-- Trở thành Data Engineer chuyên về hệ thống streaming real-time  
-- Làm việc với các mô hình Lakehouse hệ thống lớn 
-- Nâng cao kiến thức về Flink, Kubernetes, Terraform  
+### 🔹 **Microsoft Fabric**
+- **OneLake** (unified lakehouse storage)  
+- **Data Engineering**  
+  - Spark notebook, Data Pipelines, Delta tables  
+- **Warehouse / SQL Endpoint**  
+  - T-SQL compatibility  
+- **Real-time Analytics**  
+  - KQL DB, event processing  
+- **Dataflow Gen2** (no-code ETL)  
+- **Power BI Integration**  
+  - Semantic model, Direct Lake  
+
+---
+
+### 🔹 **Databricks**
+- **Unified Analytics Platform**  
+- Apache Spark (batch + streaming)  
+- **Delta Lake**: ACID, Time Travel, Z-Ordering, Auto-Optimize  
+- **Unity Catalog**: lineage, permission management  
+- **Delta Live Tables (DLT)**: declarative ETL pipelines  
+- **Databricks Workflows**: job orchestration  
+- Cluster management: auto-scaling, high-concurrency  
+- MLflow (tracking, registry)
+
+---
+
+### 🔹 **Databases & Data Warehouse**
+- MySQL, PostgreSQL, SQL Server 
+- Database Normalization, Denormalization
+- MongoDB / Redis cơ bản  
+
+---
+
+### 🔹 **Data Modeling**
+- Kimball dimensional modeling (fact, dimension, SCD Type 1/2)  
+- Data Vault 2.0 (hubs, satellites, links – cơ bản)  
+- Schema design: OLTP vs OLAP  
+
+
+---
+
+### 🔹 **Testing & Quality**
+- Data validation (dbt tests, patito, pydantic)  
+- Data quality frameworks: constraints, schema tests  
+
+---
+
+### 🔹 **Soft Skills**
+- Khả năng phân tích vấn đề rõ ràng  
+- Tư duy logic / xử lý lỗi pipeline  
+- Làm việc nhóm, hiểu kiến trúc hệ thống  
+- Tự học, khả năng đọc tài liệu kỹ thuật  
+
+---
+
+## 🎓 Học vấn và Chứng chỉ
+- Cử nhân Tài Chính Ngân Hàng  
+- Google Data Analytic Professional Certificate
+- Datacamp SQL Data Engineer Associate Certificate
+- HackerRank SQL Basic Certificate
 
 ---
 
 ## 📫 Liên hệ
 - **Email:** hongocgiahuy22@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/huy-lake
+- **LinkedIn:** https://www.linkedin.com/in/your-profile  
 - **GitHub:** https://github.com/HUYLAKE 
 - **Số điện thoại:** 0827876067  
 
