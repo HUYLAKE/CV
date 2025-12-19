@@ -13,6 +13,19 @@ Xin chào! Mình là **Data Engineer** với kiến thức về hệ thống d�
 Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn định – tối ưu – mở rộng dễ dàng**, phục vụ phân tích và machine learning.
 
 ---
+## 📂 Projects
+
+### 1️⃣ Data Pipeline with Polars
+- **Tech**: Python, Polars, Patito
+- **Mô tả**: Pipeline trích xuất dữ liệu từ file csv, lọc data lỗi và sạch thành 2 file riêng biệt 
+- 🔗 **Repo**: https://github.com/HUYLAKE/ETL_polars_project
+
+---
+
+### 2️⃣ Data Pipeline With Dbt
+- **Tech**: Dbt core, MySQL
+- **Mô Tả**: Thực hiện quy trình ELT trong MySQL chuyển, dùng dbt biến đổi dữ liệu phù hợp cho phân tích 
+- 🔗 **Repo**: https://github.com/HUYLAKE/ELT_project
 
 ## 🛠️ Kỹ năng chuyên môn (Tech Skills)
 
@@ -32,71 +45,7 @@ Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn �
 
 ### 🔹 **Data Pipelines & Workflow**
 - Data Orchestration (Dagster, Airflow) 
-- dbt (data modeling: staging, core, mart; testing; documentation)  
-- Event-driven ETL ( Kafka Streams cơ bản)  
-
-
----
-
-### 🔹 **Microsoft Fabric**
-- **OneLake** (unified lakehouse storage)  
-- **Data Engineering**  
-  - Spark notebook, Data Pipelines, Delta tables  
-- **Warehouse / SQL Endpoint**  
-  - T-SQL compatibility  
-- **Real-time Analytics**  
-  - KQL DB, event processing  
-- **Dataflow Gen2** (no-code ETL)  
-- **Power BI Integration**  
-  - Semantic model, Direct Lake  
-
----
-
-### 🔹 **Databricks**
-- **Unified Analytics Platform**  
-- Apache Spark (batch + streaming)  
-- **Delta Lake**: ACID, Time Travel, Z-Ordering, Auto-Optimize  
-- **Unity Catalog**: lineage, permission management  
-- **Delta Live Tables (DLT)**: declarative ETL pipelines  
-- **Databricks Workflows**: job orchestration  
-- Cluster management: auto-scaling, high-concurrency  
-- MLflow (tracking, registry)
-
----
-
-### 🔹 **Databases & Data Warehouse**
-- MySQL, PostgreSQL, SQL Server 
-- Database Normalization, Denormalization
-- MongoDB / Redis cơ bản  
-
----
-
-### 🔹 **Data Modeling**
-- Kimball dimensional modeling (fact, dimension, SCD Type 1/2)  
-- Data Vault 2.0 (hubs, satellites, links – cơ bản)  
-- Schema design: OLTP vs OLAP  
-
-
----
-
-### 🔹 **Testing & Quality**
-- Data validation (dbt tests, Great Expectations – concept, patito, pydantic)  
-- Unit test Python (pytest)  
-- Data quality frameworks: constraints, schema tests  
-
----
-
-### 🔹 **Soft Skills**
-- Khả năng phân tích vấn đề rõ ràng  
-- Tư duy logic / xử lý lỗi pipeline  
-- Làm việc nhóm, hiểu kiến trúc hệ thống  
-- Tự học, khả năng đọc tài liệu kỹ thuật  
-
----
-
-## 🎓 Học vấn
-- Cử nhân Tài Chính Ngân Hàng  
-- Tự học / khóa học về Data Engineering: Spark, Kafka, Airflow, Cloud  
+- dbt (data modeling: staging, core, mart; testing; documentation) Certificate  
 
 ---
 
@@ -109,7 +58,7 @@ Mục tiêu của mình là phát triển các hệ thống dữ liệu **ổn �
 
 ## 📫 Liên hệ
 - **Email:** hongocgiahuy22@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-profile  
+- **LinkedIn:** https://www.linkedin.com/in/huy-lake
 - **GitHub:** https://github.com/HUYLAKE 
 - **Số điện thoại:** 0827876067  
 
